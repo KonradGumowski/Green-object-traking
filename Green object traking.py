@@ -1,5 +1,4 @@
-# https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
-# import the necessary packages
+# first lines were taken from example: https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 
 from collections import deque
 from imutils.video import VideoStream
